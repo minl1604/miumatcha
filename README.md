@@ -9,7 +9,7 @@ npm install
 npm run dev
 ```
 
-Mở http://127.0.0.1:5173. Không cần API key để chơi.
+Mở https://miumatcha.vercel.app/ Để chơi
 "# miumatcha" 
 "# miumatcha" 
 "# miumatcha" 
