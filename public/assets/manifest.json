@@ -1,0 +1,3288 @@
+{
+  "version": 1,
+  "author": "Miu Matcha original procedural illustration",
+  "license": "Original artwork included with this game; CC0-1.0",
+  "assets": {
+    "customer-0": {
+      "path": "/assets/characters/customer-0.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-customer-0": {
+      "path": "/assets/characters/portrait-customer-0.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "customer-1": {
+      "path": "/assets/characters/customer-1.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-customer-1": {
+      "path": "/assets/characters/portrait-customer-1.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "customer-2": {
+      "path": "/assets/characters/customer-2.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-customer-2": {
+      "path": "/assets/characters/portrait-customer-2.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "customer-3": {
+      "path": "/assets/characters/customer-3.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-customer-3": {
+      "path": "/assets/characters/portrait-customer-3.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "customer-4": {
+      "path": "/assets/characters/customer-4.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-customer-4": {
+      "path": "/assets/characters/portrait-customer-4.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "customer-5": {
+      "path": "/assets/characters/customer-5.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-customer-5": {
+      "path": "/assets/characters/portrait-customer-5.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "customer-6": {
+      "path": "/assets/characters/customer-6.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-customer-6": {
+      "path": "/assets/characters/portrait-customer-6.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "customer-7": {
+      "path": "/assets/characters/customer-7.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-customer-7": {
+      "path": "/assets/characters/portrait-customer-7.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "customer-8": {
+      "path": "/assets/characters/customer-8.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-customer-8": {
+      "path": "/assets/characters/portrait-customer-8.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "customer-9": {
+      "path": "/assets/characters/customer-9.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-customer-9": {
+      "path": "/assets/characters/portrait-customer-9.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "customer-10": {
+      "path": "/assets/characters/customer-10.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-customer-10": {
+      "path": "/assets/characters/portrait-customer-10.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "customer-11": {
+      "path": "/assets/characters/customer-11.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-customer-11": {
+      "path": "/assets/characters/portrait-customer-11.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "staff-0": {
+      "path": "/assets/characters/staff-0.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-staff-0": {
+      "path": "/assets/characters/portrait-staff-0.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "staff-1": {
+      "path": "/assets/characters/staff-1.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-staff-1": {
+      "path": "/assets/characters/portrait-staff-1.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "staff-2": {
+      "path": "/assets/characters/staff-2.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-staff-2": {
+      "path": "/assets/characters/portrait-staff-2.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "staff-3": {
+      "path": "/assets/characters/staff-3.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-staff-3": {
+      "path": "/assets/characters/portrait-staff-3.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "staff-4": {
+      "path": "/assets/characters/staff-4.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-staff-4": {
+      "path": "/assets/characters/portrait-staff-4.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "staff-5": {
+      "path": "/assets/characters/staff-5.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-staff-5": {
+      "path": "/assets/characters/portrait-staff-5.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "event-delivery": {
+      "path": "/assets/characters/event-delivery.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-event-delivery": {
+      "path": "/assets/characters/portrait-event-delivery.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "technician": {
+      "path": "/assets/characters/technician.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-technician": {
+      "path": "/assets/characters/portrait-technician.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "inspector": {
+      "path": "/assets/characters/inspector.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-inspector": {
+      "path": "/assets/characters/portrait-inspector.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "vet": {
+      "path": "/assets/characters/vet.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-vet": {
+      "path": "/assets/characters/portrait-vet.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-0-0-0": {
+      "path": "/assets/characters/player-0-0-0.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-0-0-0": {
+      "path": "/assets/characters/portrait-player-0-0-0.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-0-0-1": {
+      "path": "/assets/characters/player-0-0-1.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-0-0-1": {
+      "path": "/assets/characters/portrait-player-0-0-1.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-0-0-2": {
+      "path": "/assets/characters/player-0-0-2.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-0-0-2": {
+      "path": "/assets/characters/portrait-player-0-0-2.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-0-1-0": {
+      "path": "/assets/characters/player-0-1-0.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-0-1-0": {
+      "path": "/assets/characters/portrait-player-0-1-0.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-0-1-1": {
+      "path": "/assets/characters/player-0-1-1.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-0-1-1": {
+      "path": "/assets/characters/portrait-player-0-1-1.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-0-1-2": {
+      "path": "/assets/characters/player-0-1-2.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-0-1-2": {
+      "path": "/assets/characters/portrait-player-0-1-2.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-0-2-0": {
+      "path": "/assets/characters/player-0-2-0.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-0-2-0": {
+      "path": "/assets/characters/portrait-player-0-2-0.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-0-2-1": {
+      "path": "/assets/characters/player-0-2-1.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-0-2-1": {
+      "path": "/assets/characters/portrait-player-0-2-1.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-0-2-2": {
+      "path": "/assets/characters/player-0-2-2.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-0-2-2": {
+      "path": "/assets/characters/portrait-player-0-2-2.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-1-0-0": {
+      "path": "/assets/characters/player-1-0-0.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-1-0-0": {
+      "path": "/assets/characters/portrait-player-1-0-0.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-1-0-1": {
+      "path": "/assets/characters/player-1-0-1.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-1-0-1": {
+      "path": "/assets/characters/portrait-player-1-0-1.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-1-0-2": {
+      "path": "/assets/characters/player-1-0-2.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-1-0-2": {
+      "path": "/assets/characters/portrait-player-1-0-2.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-1-1-0": {
+      "path": "/assets/characters/player-1-1-0.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-1-1-0": {
+      "path": "/assets/characters/portrait-player-1-1-0.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-1-1-1": {
+      "path": "/assets/characters/player-1-1-1.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-1-1-1": {
+      "path": "/assets/characters/portrait-player-1-1-1.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-1-1-2": {
+      "path": "/assets/characters/player-1-1-2.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-1-1-2": {
+      "path": "/assets/characters/portrait-player-1-1-2.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-1-2-0": {
+      "path": "/assets/characters/player-1-2-0.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-1-2-0": {
+      "path": "/assets/characters/portrait-player-1-2-0.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-1-2-1": {
+      "path": "/assets/characters/player-1-2-1.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-1-2-1": {
+      "path": "/assets/characters/portrait-player-1-2-1.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-1-2-2": {
+      "path": "/assets/characters/player-1-2-2.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-1-2-2": {
+      "path": "/assets/characters/portrait-player-1-2-2.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-2-0-0": {
+      "path": "/assets/characters/player-2-0-0.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-2-0-0": {
+      "path": "/assets/characters/portrait-player-2-0-0.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-2-0-1": {
+      "path": "/assets/characters/player-2-0-1.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-2-0-1": {
+      "path": "/assets/characters/portrait-player-2-0-1.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-2-0-2": {
+      "path": "/assets/characters/player-2-0-2.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-2-0-2": {
+      "path": "/assets/characters/portrait-player-2-0-2.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-2-1-0": {
+      "path": "/assets/characters/player-2-1-0.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-2-1-0": {
+      "path": "/assets/characters/portrait-player-2-1-0.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-2-1-1": {
+      "path": "/assets/characters/player-2-1-1.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-2-1-1": {
+      "path": "/assets/characters/portrait-player-2-1-1.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-2-1-2": {
+      "path": "/assets/characters/player-2-1-2.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-2-1-2": {
+      "path": "/assets/characters/portrait-player-2-1-2.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-2-2-0": {
+      "path": "/assets/characters/player-2-2-0.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-2-2-0": {
+      "path": "/assets/characters/portrait-player-2-2-0.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-2-2-1": {
+      "path": "/assets/characters/player-2-2-1.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-2-2-1": {
+      "path": "/assets/characters/portrait-player-2-2-1.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "player-2-2-2": {
+      "path": "/assets/characters/player-2-2-2.svg",
+      "group": "characters",
+      "width": 1512,
+      "height": 100,
+      "frames": 21,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-player-2-2-2": {
+      "path": "/assets/characters/portrait-player-2-2-2.svg",
+      "group": "characters",
+      "width": 72,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 72,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "cat-0": {
+      "path": "/assets/cats/cat-0.svg",
+      "group": "cats",
+      "width": 1596,
+      "height": 84,
+      "frames": 19,
+      "frameWidth": 84,
+      "frameHeight": 84,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-cat-0": {
+      "path": "/assets/cats/portrait-cat-0.svg",
+      "group": "cats",
+      "width": 84,
+      "height": 84,
+      "frames": 1,
+      "frameWidth": 84,
+      "frameHeight": 84,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "cat-1": {
+      "path": "/assets/cats/cat-1.svg",
+      "group": "cats",
+      "width": 1596,
+      "height": 84,
+      "frames": 19,
+      "frameWidth": 84,
+      "frameHeight": 84,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-cat-1": {
+      "path": "/assets/cats/portrait-cat-1.svg",
+      "group": "cats",
+      "width": 84,
+      "height": 84,
+      "frames": 1,
+      "frameWidth": 84,
+      "frameHeight": 84,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "cat-2": {
+      "path": "/assets/cats/cat-2.svg",
+      "group": "cats",
+      "width": 1596,
+      "height": 84,
+      "frames": 19,
+      "frameWidth": 84,
+      "frameHeight": 84,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-cat-2": {
+      "path": "/assets/cats/portrait-cat-2.svg",
+      "group": "cats",
+      "width": 84,
+      "height": 84,
+      "frames": 1,
+      "frameWidth": 84,
+      "frameHeight": 84,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "cat-3": {
+      "path": "/assets/cats/cat-3.svg",
+      "group": "cats",
+      "width": 1596,
+      "height": 84,
+      "frames": 19,
+      "frameWidth": 84,
+      "frameHeight": 84,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-cat-3": {
+      "path": "/assets/cats/portrait-cat-3.svg",
+      "group": "cats",
+      "width": 84,
+      "height": 84,
+      "frames": 1,
+      "frameWidth": 84,
+      "frameHeight": 84,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "cat-4": {
+      "path": "/assets/cats/cat-4.svg",
+      "group": "cats",
+      "width": 1596,
+      "height": 84,
+      "frames": 19,
+      "frameWidth": 84,
+      "frameHeight": 84,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-cat-4": {
+      "path": "/assets/cats/portrait-cat-4.svg",
+      "group": "cats",
+      "width": 84,
+      "height": 84,
+      "frames": 1,
+      "frameWidth": 84,
+      "frameHeight": 84,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "cat-5": {
+      "path": "/assets/cats/cat-5.svg",
+      "group": "cats",
+      "width": 1596,
+      "height": 84,
+      "frames": 19,
+      "frameWidth": 84,
+      "frameHeight": 84,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "portrait-cat-5": {
+      "path": "/assets/cats/portrait-cat-5.svg",
+      "group": "cats",
+      "width": 84,
+      "height": 84,
+      "frames": 1,
+      "frameWidth": 84,
+      "frameHeight": 84,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "matcha-latte": {
+      "path": "/assets/items/matcha-latte.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "matcha-strawberry": {
+      "path": "/assets/items/matcha-strawberry.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "matcha-salt": {
+      "path": "/assets/items/matcha-salt.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "houjicha-latte": {
+      "path": "/assets/items/houjicha-latte.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "houjicha-caramel": {
+      "path": "/assets/items/houjicha-caramel.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "sencha-lemon": {
+      "path": "/assets/items/sencha-lemon.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "matcha-mango": {
+      "path": "/assets/items/matcha-mango.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "houjicha-cheese": {
+      "path": "/assets/items/houjicha-cheese.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "genmaicha-latte": {
+      "path": "/assets/items/genmaicha-latte.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "seasonal-tea": {
+      "path": "/assets/items/seasonal-tea.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "mochi": {
+      "path": "/assets/items/mochi.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "cookie": {
+      "path": "/assets/items/cookie.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "cheesecake-matcha": {
+      "path": "/assets/items/cheesecake-matcha.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "brownie-houjicha": {
+      "path": "/assets/items/brownie-houjicha.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "tiramisu-matcha": {
+      "path": "/assets/items/tiramisu-matcha.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "pearl": {
+      "path": "/assets/items/pearl.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "jelly": {
+      "path": "/assets/items/jelly.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "milk-cream": {
+      "path": "/assets/items/milk-cream.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "red-bean": {
+      "path": "/assets/items/red-bean.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "matcha": {
+      "path": "/assets/items/matcha.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "houjicha": {
+      "path": "/assets/items/houjicha.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "sencha": {
+      "path": "/assets/items/sencha.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "genmaicha": {
+      "path": "/assets/items/genmaicha.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "milk": {
+      "path": "/assets/items/milk.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "oatmilk": {
+      "path": "/assets/items/oatmilk.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "sugar": {
+      "path": "/assets/items/sugar.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "syrup": {
+      "path": "/assets/items/syrup.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "strawberry": {
+      "path": "/assets/items/strawberry.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "mango": {
+      "path": "/assets/items/mango.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "lemon": {
+      "path": "/assets/items/lemon.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "ice": {
+      "path": "/assets/items/ice.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "flour": {
+      "path": "/assets/items/flour.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "egg": {
+      "path": "/assets/items/egg.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "butter": {
+      "path": "/assets/items/butter.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "cream": {
+      "path": "/assets/items/cream.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "coffee": {
+      "path": "/assets/items/coffee.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "cat-food": {
+      "path": "/assets/items/cat-food.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "autumn-latte": {
+      "path": "/assets/items/autumn-latte.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "sencha-latte": {
+      "path": "/assets/items/sencha-latte.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "cheesecake": {
+      "path": "/assets/items/cheesecake.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "brownie": {
+      "path": "/assets/items/brownie.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "tiramisu": {
+      "path": "/assets/items/tiramisu.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "oat": {
+      "path": "/assets/items/oat.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "caramel": {
+      "path": "/assets/items/caramel.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "cheese": {
+      "path": "/assets/items/cheese.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "redbean": {
+      "path": "/assets/items/redbean.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "catfood": {
+      "path": "/assets/items/catfood.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "cocoa": {
+      "path": "/assets/items/cocoa.svg",
+      "group": "items",
+      "width": 80,
+      "height": 80,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "table": {
+      "path": "/assets/furniture/table.svg",
+      "group": "furniture",
+      "width": 150,
+      "height": 115,
+      "frames": 1,
+      "frameWidth": 150,
+      "frameHeight": 115,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "chair": {
+      "path": "/assets/furniture/chair.svg",
+      "group": "furniture",
+      "width": 80,
+      "height": 85,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 85,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "counter": {
+      "path": "/assets/furniture/counter.svg",
+      "group": "furniture",
+      "width": 285,
+      "height": 115,
+      "frames": 1,
+      "frameWidth": 285,
+      "frameHeight": 115,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "bakery": {
+      "path": "/assets/furniture/bakery.svg",
+      "group": "furniture",
+      "width": 162,
+      "height": 119,
+      "frames": 1,
+      "frameWidth": 162,
+      "frameHeight": 119,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "oven": {
+      "path": "/assets/furniture/oven.svg",
+      "group": "furniture",
+      "width": 135,
+      "height": 120,
+      "frames": 1,
+      "frameWidth": 135,
+      "frameHeight": 120,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "fridge": {
+      "path": "/assets/furniture/fridge.svg",
+      "group": "furniture",
+      "width": 120,
+      "height": 145,
+      "frames": 1,
+      "frameWidth": 120,
+      "frameHeight": 145,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "register": {
+      "path": "/assets/furniture/register.svg",
+      "group": "furniture",
+      "width": 95,
+      "height": 86,
+      "frames": 1,
+      "frameWidth": 95,
+      "frameHeight": 86,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "sink": {
+      "path": "/assets/furniture/sink.svg",
+      "group": "furniture",
+      "width": 128,
+      "height": 105,
+      "frames": 1,
+      "frameWidth": 128,
+      "frameHeight": 105,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "whisk": {
+      "path": "/assets/furniture/whisk.svg",
+      "group": "furniture",
+      "width": 88,
+      "height": 85,
+      "frames": 1,
+      "frameWidth": 88,
+      "frameHeight": 85,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "cat-tree": {
+      "path": "/assets/furniture/cat-tree.svg",
+      "group": "furniture",
+      "width": 138,
+      "height": 148,
+      "frames": 1,
+      "frameWidth": 138,
+      "frameHeight": 148,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "cushion": {
+      "path": "/assets/furniture/cushion.svg",
+      "group": "furniture",
+      "width": 112,
+      "height": 78,
+      "frames": 1,
+      "frameWidth": 112,
+      "frameHeight": 78,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "plant": {
+      "path": "/assets/furniture/plant.svg",
+      "group": "furniture",
+      "width": 82,
+      "height": 110,
+      "frames": 1,
+      "frameWidth": 82,
+      "frameHeight": 110,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "shelf": {
+      "path": "/assets/furniture/shelf.svg",
+      "group": "furniture",
+      "width": 135,
+      "height": 132,
+      "frames": 1,
+      "frameWidth": 135,
+      "frameHeight": 132,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "box": {
+      "path": "/assets/furniture/box.svg",
+      "group": "furniture",
+      "width": 100,
+      "height": 98,
+      "frames": 1,
+      "frameWidth": 100,
+      "frameHeight": 98,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "toy": {
+      "path": "/assets/furniture/toy.svg",
+      "group": "furniture",
+      "width": 105,
+      "height": 90,
+      "frames": 1,
+      "frameWidth": 105,
+      "frameHeight": 90,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "lamp": {
+      "path": "/assets/furniture/lamp.svg",
+      "group": "furniture",
+      "width": 90,
+      "height": 120,
+      "frames": 1,
+      "frameWidth": 90,
+      "frameHeight": 120,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "rug": {
+      "path": "/assets/furniture/rug.svg",
+      "group": "furniture",
+      "width": 260,
+      "height": 113,
+      "frames": 1,
+      "frameWidth": 260,
+      "frameHeight": 113,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "bridge": {
+      "path": "/assets/furniture/bridge.svg",
+      "group": "furniture",
+      "width": 120,
+      "height": 90,
+      "frames": 1,
+      "frameWidth": 120,
+      "frameHeight": 90,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "bench": {
+      "path": "/assets/furniture/bench.svg",
+      "group": "furniture",
+      "width": 145,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 145,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "ice-maker": {
+      "path": "/assets/furniture/ice-maker.svg",
+      "group": "furniture",
+      "width": 108,
+      "height": 112,
+      "frames": 1,
+      "frameWidth": 108,
+      "frameHeight": 112,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "bin": {
+      "path": "/assets/furniture/bin.svg",
+      "group": "furniture",
+      "width": 82,
+      "height": 85,
+      "frames": 1,
+      "frameWidth": 82,
+      "frameHeight": 85,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "rest": {
+      "path": "/assets/furniture/rest.svg",
+      "group": "furniture",
+      "width": 145,
+      "height": 100,
+      "frames": 1,
+      "frameWidth": 145,
+      "frameHeight": 100,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "delivery": {
+      "path": "/assets/furniture/delivery.svg",
+      "group": "furniture",
+      "width": 135,
+      "height": 132,
+      "frames": 1,
+      "frameWidth": 135,
+      "frameHeight": 132,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "floor": {
+      "path": "/assets/environment/floor.svg",
+      "group": "environment",
+      "width": 1050,
+      "height": 555,
+      "frames": 1,
+      "frameWidth": 1050,
+      "frameHeight": 555,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "wall": {
+      "path": "/assets/environment/wall.svg",
+      "group": "environment",
+      "width": 1050,
+      "height": 160,
+      "frames": 1,
+      "frameWidth": 1050,
+      "frameHeight": 160,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "window": {
+      "path": "/assets/environment/window.svg",
+      "group": "environment",
+      "width": 238,
+      "height": 128,
+      "frames": 1,
+      "frameWidth": 238,
+      "frameHeight": 128,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "door": {
+      "path": "/assets/environment/door.svg",
+      "group": "environment",
+      "width": 114,
+      "height": 172,
+      "frames": 1,
+      "frameWidth": 114,
+      "frameHeight": 172,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "awning": {
+      "path": "/assets/environment/awning.svg",
+      "group": "environment",
+      "width": 520,
+      "height": 75,
+      "frames": 1,
+      "frameWidth": 520,
+      "frameHeight": 75,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "sign": {
+      "path": "/assets/environment/sign.svg",
+      "group": "environment",
+      "width": 235,
+      "height": 85,
+      "frames": 1,
+      "frameWidth": 235,
+      "frameHeight": 85,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "fence": {
+      "path": "/assets/environment/fence.svg",
+      "group": "environment",
+      "width": 140,
+      "height": 98,
+      "frames": 1,
+      "frameWidth": 140,
+      "frameHeight": 98,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "street": {
+      "path": "/assets/environment/street.svg",
+      "group": "environment",
+      "width": 1120,
+      "height": 95,
+      "frames": 1,
+      "frameWidth": 1120,
+      "frameHeight": 95,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "hanging-plant": {
+      "path": "/assets/environment/hanging-plant.svg",
+      "group": "environment",
+      "width": 84,
+      "height": 145,
+      "frames": 1,
+      "frameWidth": 84,
+      "frameHeight": 145,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "entrance": {
+      "path": "/assets/environment/entrance.svg",
+      "group": "environment",
+      "width": 420,
+      "height": 65,
+      "frames": 3,
+      "frameWidth": 140,
+      "frameHeight": 65,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "bell": {
+      "path": "/assets/furniture/bell.svg",
+      "group": "furniture",
+      "width": 168,
+      "height": 62,
+      "frames": 3,
+      "frameWidth": 56,
+      "frameHeight": 62,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-cat": {
+      "path": "/assets/ui/cat.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-money": {
+      "path": "/assets/ui/money.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-orders": {
+      "path": "/assets/ui/orders.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-recipe": {
+      "path": "/assets/ui/recipe.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-staff": {
+      "path": "/assets/ui/staff.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-stock": {
+      "path": "/assets/ui/stock.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-decor": {
+      "path": "/assets/ui/decor.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-report": {
+      "path": "/assets/ui/report.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-settings": {
+      "path": "/assets/ui/settings.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-pause": {
+      "path": "/assets/ui/pause.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-play": {
+      "path": "/assets/ui/play.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-sun": {
+      "path": "/assets/ui/sun.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-moon": {
+      "path": "/assets/ui/moon.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-leaf": {
+      "path": "/assets/ui/leaf.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-help": {
+      "path": "/assets/ui/help.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-save": {
+      "path": "/assets/ui/save.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-camera": {
+      "path": "/assets/ui/camera.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-warning": {
+      "path": "/assets/ui/warning.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-heart": {
+      "path": "/assets/ui/heart.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-energy": {
+      "path": "/assets/ui/energy.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-trophy": {
+      "path": "/assets/ui/trophy.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-calendar": {
+      "path": "/assets/ui/calendar.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-clean": {
+      "path": "/assets/ui/clean.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-close": {
+      "path": "/assets/ui/close.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-arrow": {
+      "path": "/assets/ui/arrow.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-sound": {
+      "path": "/assets/ui/sound.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-training": {
+      "path": "/assets/ui/training.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-rest": {
+      "path": "/assets/ui/rest.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-repair": {
+      "path": "/assets/ui/repair.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-evidence": {
+      "path": "/assets/ui/evidence.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-debt": {
+      "path": "/assets/ui/debt.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-tax": {
+      "path": "/assets/ui/tax.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-revenue": {
+      "path": "/assets/ui/revenue.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-album": {
+      "path": "/assets/ui/album.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-food": {
+      "path": "/assets/ui/food.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-joy": {
+      "path": "/assets/ui/joy.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-shop": {
+      "path": "/assets/ui/shop.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-loss": {
+      "path": "/assets/ui/loss.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-cursor": {
+      "path": "/assets/ui/cursor.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-rain": {
+      "path": "/assets/ui/rain.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-menu": {
+      "path": "/assets/ui/menu.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-star": {
+      "path": "/assets/ui/star.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-bell": {
+      "path": "/assets/ui/bell.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-clock": {
+      "path": "/assets/ui/clock.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-profit": {
+      "path": "/assets/ui/profit.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-equipment": {
+      "path": "/assets/ui/equipment.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-quest": {
+      "path": "/assets/ui/quest.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-shift": {
+      "path": "/assets/ui/shift.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-quit": {
+      "path": "/assets/ui/quit.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "icon-paw": {
+      "path": "/assets/ui/paw.svg",
+      "group": "ui",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "panel": {
+      "path": "/assets/ui/panel.svg",
+      "group": "ui",
+      "width": 320,
+      "height": 200,
+      "frames": 1,
+      "frameWidth": 320,
+      "frameHeight": 200,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "badge": {
+      "path": "/assets/ui/badge.svg",
+      "group": "ui",
+      "width": 80,
+      "height": 90,
+      "frames": 1,
+      "frameWidth": 80,
+      "frameHeight": 90,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "sparkle": {
+      "path": "/assets/effects/sparkle.svg",
+      "group": "effects",
+      "width": 40,
+      "height": 40,
+      "frames": 1,
+      "frameWidth": 40,
+      "frameHeight": 40,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "steam": {
+      "path": "/assets/effects/steam.svg",
+      "group": "effects",
+      "width": 128,
+      "height": 60,
+      "frames": 4,
+      "frameWidth": 32,
+      "frameHeight": 60,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "pour": {
+      "path": "/assets/effects/pour.svg",
+      "group": "effects",
+      "width": 144,
+      "height": 70,
+      "frames": 4,
+      "frameWidth": 36,
+      "frameHeight": 70,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "heart-burst": {
+      "path": "/assets/effects/heart-burst.svg",
+      "group": "effects",
+      "width": 56,
+      "height": 56,
+      "frames": 1,
+      "frameWidth": 56,
+      "frameHeight": 56,
+      "anchor": [
+        0.5,
+        1
+      ]
+    },
+    "paw": {
+      "path": "/assets/effects/paw.svg",
+      "group": "effects",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "frameWidth": 48,
+      "frameHeight": 48,
+      "anchor": [
+        0.5,
+        1
+      ]
+    }
+  },
+  "humanStates": [
+    "idle",
+    "south1",
+    "south2",
+    "south3",
+    "north1",
+    "north2",
+    "north3",
+    "east1",
+    "east2",
+    "east3",
+    "west1",
+    "west2",
+    "west3",
+    "sit",
+    "carry",
+    "work1",
+    "work2",
+    "happy",
+    "sad",
+    "tired",
+    "surprised"
+  ],
+  "catStates": [
+    "idle",
+    "walk1",
+    "walk2",
+    "walk3",
+    "run1",
+    "run2",
+    "sit",
+    "lie",
+    "sleep",
+    "yawn",
+    "tail1",
+    "tail2",
+    "lick",
+    "stalk",
+    "pounce",
+    "rub",
+    "pet",
+    "eat",
+    "box"
+  ]
+}

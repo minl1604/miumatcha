@@ -1,0 +1,28 @@
+@media (max-width: 650px) {
+  .sidebar {
+    gap: 0;
+    padding: 5px 3px;
+    overflow: hidden;
+  }
+  .sidebar .nav-item {
+    flex: 1;
+    min-width: 0;
+    padding: 6px 2px;
+    gap: 4px;
+  }
+  .sidebar .nav-label {
+    white-space: normal;
+    font-size: 8px;
+    line-height: 1.15;
+    text-align: center;
+    min-height: 19px;
+    max-width: 43px;
+  }
+  .status-actions {
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
+  .scene-wrap > div {
+    min-height: 0 !important;
+  }
+}
